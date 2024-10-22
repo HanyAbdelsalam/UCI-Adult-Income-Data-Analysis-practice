@@ -7,6 +7,7 @@ This project focuses on exploring and analyzing the Adult Income Dataset from th
 
 The dataset, also known as the Census Income Dataset, contains demographic and employment information, extracted from the 1994 U.S. Census database. The task involves building classification models to predict the income category.
 
+For more details regarding the dataset, check adult/adult.names
 
 ### Table of Contents
 
@@ -87,3 +88,10 @@ This project is a practice exercise for building my skills in:
 *    Data visualization
 *    Machine learning algorithms (classification)
 *    Handling and cleaning missing data
+
+
+### Notes:
+This project is for practice purposes. therefore, kindly correct me for any mistakes.
+Almost all of teh numerical features are suffering from skewness and high nunber of outliers, maybe in future modifcations the effect of different transformations/normalization techniques on fixing the outliers and skewness issues.
+Also i can work more on the EDA part, and how actually can the gained statistical information be beneficial for this project.
+I am more than welcome to any corrections to improve and solidify my knowledge.
